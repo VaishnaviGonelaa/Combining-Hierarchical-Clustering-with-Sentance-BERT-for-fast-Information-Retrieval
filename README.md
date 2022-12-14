@@ -11,7 +11,7 @@ Applying Sentence BERT on the clusters formed to fetch most relevant documents
 Clone the project
 
 ```bash
-  git clone https://github.com/sanjshroff/Biomedical.git
+  git clone https://github.com/VaishnaviGonelaa/Biomedical.git
 ```
 
 Go to the project directory
