@@ -2,7 +2,7 @@
 """
 Created on Sun Oct 30 19:46:19 2022
 
-@author: sanjs
+@author: vaishnavi
 """
 #required modules are importedpi
 from Bio import Medline
